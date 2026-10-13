@@ -1,0 +1,6 @@
+# BLIP image captioning runtime and the lightweight web interface.
+Pillow==11.3.0
+streamlit==1.65.0
+torch==2.8.0
+torchvision==0.23.0
+transformers==4.57.1
